@@ -1,0 +1,15 @@
+{
+  "name": "mongoosex",
+  "version": "1.0.0",
+  "description": "abc123",
+  "main": "app.js",
+  "dependencies": {
+    "mongoose": "^5.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "a"
+  },
+  "author": "",
+  "license": "ISC"
+}
